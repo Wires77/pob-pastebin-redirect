@@ -1,3 +1,4 @@
 *.swp
 *.zip
+.web-extension-id
 .DS_Store
