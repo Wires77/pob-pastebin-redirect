@@ -1,11 +1,12 @@
 {
   "name": "PoB Pastebin Redirect",
   "description": "Open Pastebin links in PoB directly",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "manifest_version": 2,
   "background": { "scripts": ["background.js"] },
   "icons": {
-    "128": "img/pobfork.png"
+    "48": "img/pobfork-48.png",
+    "128": "img/pobfork-128.png"
   },
   "permissions": [
     "webRequest",
